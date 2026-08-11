@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+``` "use client"; ```import React, { useEffect, useRef, useState } from "react";
 
 /**
  * Aunkur Chandra Shil — Portfolio
